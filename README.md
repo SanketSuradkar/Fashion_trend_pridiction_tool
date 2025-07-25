@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib seaborn opencv-python scikit-learn
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/fashion-trend-prediction.git
+   git clone https://github.com/SanketSuradkar/Fashion-trend-prediction.git
    cd fashion-trend-prediction
    ```
 
@@ -72,10 +72,19 @@ pip install numpy pandas matplotlib seaborn opencv-python scikit-learn
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+Copyright (c) 2025 Sanket Suradkar
+
+All rights reserved.
+
+This project, "Fashion Trend Prediction", was developed as part of the final year engineering curriculum at 
+KJ College of Engineering and Management Research, Pune.
+
+Unauthorized copying, distribution, modification, or use of this work in whole or in part is strictly prohibited 
+without express written permission from the author.
+
+For inquiries, please contact: sanketsuradkar@[sandysuradkar12@gmail.com]
+.
 
 ---
 
-## 🙌 Acknowledgments
 
-Thanks to the open-source community and datasets that made this project possible!
