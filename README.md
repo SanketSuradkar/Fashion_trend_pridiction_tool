@@ -8,7 +8,7 @@ This project uses machine learning techniques to predict future fashion trends b
 ## 📁 Project Structure
 
 - **Data Preprocessing**  
-  Image data is preprocessed to extract color features and apply dimensionality reduction using PCA.
+  Image data is preprocessed to extract color features and apply dimensionality reduction using PCA..
 
 - **KMeans Clustering**  
   The dominant color trends in fashion images are clustered using the KMeans algorithm to identify emerging themes.
