@@ -1,7 +1,7 @@
 
 # 🧠 Fashion Trend Prediction
 
-This project uses machine learning techniques to predict future fashion trends based on historical and visual data. Leveraging clustering, PCA, and color analysis from image datasets, it aims to provide insights into evolving fashion aesthetics.
+This project uses machine learning techniques to predict future fashion trends based on historical and visual data. Leveraging clustering, PCA, and color analysis from image datasets, it aims to provide insights into evolving fashion aesthetics...
 
 ---
 
