@@ -87,4 +87,4 @@ For inquiries, please contact: sanketsuradkar@[sandysuradkar12@gmail.com]
 
 ---
 
-Live Preview https://sanketsuradkar.github.io/Fashion_trend_pridiction_tool/
+Live Preview https://fashiontrendwebsite.vercel.app/
